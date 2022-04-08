@@ -1,5 +1,7 @@
 const obj = {
-    name: "Virginie",
+    name: "Charlotte",
     age: 30,
-    isAdmin: true
+    orders: [
+        'pain', 'lait'
+    ]
 }
