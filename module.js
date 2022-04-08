@@ -1,4 +1,4 @@
 const obj = {
-    name: "Virginie",
+    name: "Charlotte",
     age: 30
 }
